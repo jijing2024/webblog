@@ -7,12 +7,13 @@ category: "集成实践"
 summary: "这里填写一到两句话的文章摘要，用于 Blog 列表和搜索引擎描述。"
 cover: "./cover.jpg"
 author: "FreeLink 技术团队"
-status: "draft"
+status: "published"
 featured: false
 ---
 
 ## Docusign Partner Finder 查询结果
-Docusign Partner Finder 查询结果  筛选条件为 APAC 与 Sell IAM for CX  查询日期 2026年9月24日
+Docusign Partner Finder 查询结果   筛选条件为 APAC 与 Sell IAM for CX  查询日期 2026年9月24日
+![图片说明](./filename.png)
 在 Docusign Partner Finder 中，将区域选择为 APAC，再勾选专业化伙伴类别 Sell: IAM for CX，页面只显示两家伙伴：Crayon Group 与 FreeLink。
 这意味着，截至2026年9月24日的 Docusign 官方伙伴目录查询结果，FreeLink（甫连信息）是亚太地区仅有的两家 Sell: IAM for CX 专业化伙伴之一。这个结果来自 Docusign 官方目录，任何人都可以按相同条件重新查询。
 这项专业化资质意味着什么
@@ -34,15 +35,8 @@ IAM for CX 处理的是客户旅程中的协议流程。开户、资料收集、
 
 ## 插入图片
 
-把图片放在当前文件夹，然后按下面格式引用：
+![图片说明](./filename.png)
 
-![图片说明](./article-image.png)
-
-## 第二个章节标题
-
-这里继续填写正文。
-
-> 重要结论可以使用引用格式突出显示。
 
 完成审核后，将 `status` 改为 `published` 才会显示在官网。
 
