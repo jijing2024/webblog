@@ -24,6 +24,7 @@ Docusign 2025年推出的新一代 Partner Program，把 Specialization 放在�
 IAM for CX 处理的是客户旅程中的协议流程。开户、资料收集、服务申请、客户入驻、身份验证、签署与后续系统回写，往往分散在表单、邮件、PDF 和多个业务系统中。Docusign IAM for CX 将 Web Forms、Workflow Builder、Identity Verification、电子签名及系统连接等能力组合起来，减少客户重复填写和人工转交，让协议流程更顺畅。
 这类项目真正困难的地方，通常在整个客户流程怎么设计：从哪里发起、收集哪些数据、怎样验证身份、谁来审批、签完写回哪个系统，以及异常出现后由谁处理。
 ## 两份原厂认可指向同一种能力
+![Docusign Partner](./cfbcc89f18e3369f4b57125c040035b2.png)
 
 近期，甫连还获得了 Docusign Asia Partner Awards 的 IAM Champion。一项是 Partner Finder 中公开可查的专业化伙伴身份，一项是 Docusign 亚太团队对 IAM 成功、创新与安全体验的公开表彰。两项认可放在一起，呈现的是同一件事：甫连在 Docusign IAM 方向的投入，已经从产品推广延伸到咨询、方案、集成与长期服务。
 甫连团队代表领取 Docusign Asia Partner Awards  IAM Champion 奖项
